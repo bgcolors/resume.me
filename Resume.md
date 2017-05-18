@@ -17,8 +17,6 @@
  - Github：[http://github.com/bgcolors](http://github.com/bgcolors)
  - 专利：[一种流通商品的可变长效防伪标识方法及系统](https://www.google.com/patents/CN105321076A?cl=zh&dq=%E5%AD%99%E7%9B%9B%E5%8D%9A&hl=zh-CN&sa=X&ved=0ahUKEwj87tjx7_3SAhXmsVQKHU6zAysQ6AEIHDAA)
  - 期望职位：PHP高级程序员，应用架构师
- - 期望城市：上海
- - 期望薪资：20-30k
 
 ---
 
