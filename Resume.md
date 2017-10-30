@@ -22,7 +22,14 @@
 
 # 工作经历
 
-## 中投在线 (2015.6 ~ 至今)
+## 阅文集团 (2017.6 ~ 至今)
+
+### 阅文游戏中心新平台(QQ阅读, 起点读书游戏中心)
+ - 基础架构和类库的建设和封装(缓存, 日志, 接口状态监控等)
+ - 首页, 详情页, 玩游戏页面等业务模块接口的开发和性能优化
+ - 平台游戏接入(整合新老平台游戏账号, 充值等的兼容等)
+
+## 中投在线 (2015.6 ~ 2017.6)
 
 ### 现货宝APP
  - 基于laravel/lumen，实现支持用户认证和授权的基础架构及APP用户模块.客户端使用https及令牌请求APP接口,并可由令牌完成对其设备及用户的认证.
@@ -73,7 +80,7 @@
 - 包管理：Composer/yum/npm/Maven/Gradle
 - 网络和多进程编程：PHP网络和多进程编程
 - 自动化容器等：Docker
-- 前端框架：Bootstrap/AngularJS/BackBones
+- 前端框架：Bootstrap/AngularJS/BackBones/Vue
 - 版本管理：Svn/Git
 - 测试：PHPUnit/Junit/Selenium/Phantomjs
 - 云和开放平台：Aliyun/SAE/BAE/微博开放平台
