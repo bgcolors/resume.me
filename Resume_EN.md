@@ -7,7 +7,7 @@ GitHub: github.com/bgcolors | Location: Shanghai, China
 ---
 
 ## SUMMARY
-Senior DevOps Architect and Backend Engineer with 12+ years of experience in large-scale distributed systems and cloud-native architecture. Proven expertise in building enterprise-level release platforms, optimizing high-concurrency systems, and leading technical teams at top Chinese internet companies (Meituan, Tencent). Holder of a patented anti-counterfeiting technology with strong problem-solving skills and a track record of delivering scalable solutions.
+Senior DevOps Architect and Backend Engineer with 12+ years of experience in large-scale distributed systems and cloud-native architecture. Proven expertise in building enterprise-level release platforms, optimizing high-concurrency systems, and leading technical teams at top Chinese internet companies (Meituan, Tencent). Strong problem-solving skills with a track record of delivering scalable, production-ready solutions.
 
 ---
 
@@ -67,9 +67,8 @@ Senior DevOps Architect and Backend Engineer with 12+ years of experience in lar
 
 ---
 
-## PATENT & ACHIEVEMENTS
+## ACHIEVEMENTS
 
-• **Patent Holder**: "Method and System for Variable Long-term Anti-counterfeiting Identification of Circulating Commodities" (CN105321076A)  
 • **Technical Evangelist**: Regular internal speaker on DevOps practices and system architecture at Meituan
 
 ---
