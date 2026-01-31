@@ -1,8 +1,8 @@
-# Shengb Sun
+# Sun Shengbo (Bowen)
 **Senior DevOps Architect & Backend Engineer**
 
 Phone: +86 15261595935 | Email: 493046077@qq.com  
-GitHub: github.com/bgcolors | Location: Shenzhen, China
+GitHub: github.com/bgcolors | Location: Shanghai, China
 
 ---
 
@@ -13,7 +13,7 @@ Senior DevOps Architect and Backend Engineer with 12+ years of experience in lar
 
 ## WORK EXPERIENCE
 
-### **Meituan** | Release System Architect | Shenzhen | Oct 2021 - Present
+### **Meituan** | Release System Architect | Shanghai | Oct 2021 - Present
 *Company-wide Release and Change Management Platform*
 
 • Architected and developed Meituan's enterprise release platform, supporting **50,000+ service deployments** across all core business units (food delivery, in-store, community group buying)
@@ -22,7 +22,7 @@ Senior DevOps Architect and Backend Engineer with 12+ years of experience in lar
 • Built DevOps toolchain integrating Kubernetes, CI/CD pipelines, and monitoring systems, achieving 99.9% platform availability
 • Established release governance standards and best practices adopted by 1,000+ engineering teams
 
-### **Tencent** | Senior Backend Engineer | Shenzhen | Apr 2018 - Dec 2021
+### **Tencent** | Senior Backend Engineer | Shanghai | Apr 2018 - Dec 2021
 *Tencent Qidian - Enterprise Instant Messaging Platform*
 
 • Developed and optimized high-concurrency enterprise IM backend systems serving millions of enterprise users with 99.99% availability
@@ -47,7 +47,7 @@ Senior DevOps Architect and Backend Engineer with 12+ years of experience in lar
 • Developed authentication system and API gateway for mobile applications
 • Implemented real-time chat and user count features for live streaming rooms
 
-### **Startup** | Technical Co-founder & Lead Developer | Shanghai | Jul 2013 - Apr 2015
+### **Startup** | Technical Co-founder & Lead Developer | Wuxi | Jul 2013 - Apr 2015
 *E-commerce Platform Startup*
 
 • Co-founded startup and led technical development as primary web developer
@@ -70,8 +70,7 @@ Senior DevOps Architect and Backend Engineer with 12+ years of experience in lar
 ## PATENT & ACHIEVEMENTS
 
 • **Patent Holder**: "Method and System for Variable Long-term Anti-counterfeiting Identification of Circulating Commodities" (CN105321076A)  
-• **Open Source Contributor**: Active follower of trpc, gRPC, go-micro, and other cloud-native projects  
-• **Internal Tech Speaker**: Regular presenter on DevOps practices and system architecture at Meituan
+• **Technical Evangelist**: Regular internal speaker on DevOps practices and system architecture at Meituan
 
 ---
 
