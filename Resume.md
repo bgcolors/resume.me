@@ -3,7 +3,7 @@
 # 联系方式
 
 - 手机：15261595935
-- Email：493046077@qq.com
+- Email：mailto:493046077@qq.com 
 - 微信号：bgcolors
 - QQ: 493046077
 
@@ -11,24 +11,31 @@
 
 # 个人信息
 
- - 孙盛博 / 男 / 1991 
+ - 孙盛博 / 男 / 1991
  - 本科 / 江南大学 / 数字媒体技术
- - 工作年限：8年
- - 专利：[一种流通商品的可变长效防伪标识方法及系统](https://www.google.com/patents/CN105321076A?cl=zh&dq=%E5%AD%99%E7%9B%9B%E5%8D%9A&hl=zh-CN&sa=X&ved=0ahUKEwj87tjx7_3SAhXmsVQKHU6zAysQ6AEIHDAA)
- - 期望职位：GO, PHP资深程序员, 应用架构师
+ - 工作年限：12年
+ - 期望职位：GO资深工程师, 高级开发工程师, DevOps架构师
 
 ---
 
 # 工作经历
 
-## 腾讯 (2018.4 ~ 至今)
+## 美团 (2021.10 ~ 至今)
+
+### 发布系统架构师
+ - 负责公司级发布变更平台的架构设计和核心功能开发，支撑核心业务的发布变更场景
+ - 主导建设自动化部署、灰度发布、异常检测等DevOps工具链
+ - 设计并实现分布式工作流引擎，支撑故障快速恢复场景
+ - 技术栈：Go、微服务、分布式系统、K8s、时序异常检测
+
+## 腾讯 (2018.4 ~ 2021.12)
 
 ### 腾讯企点
- - 高并发企业级即时通信系统后台开发和性能优化(GO, PHP, C等)
+ - 高并发企业级即时通信系统后台开发和性能优化(Go, PHP, C等)
  - 开发容器/开发环境编排搭建, 业务服务公有云/私有云CICD, Devops
  - 业务服务，存储上云(k8s)实战经验
  - 全链路日志, Tracing, 监控, 压测及优化经验(ELK Stack, Prometheus, Grafana)
- - 大型企业级服务系统复杂业务GO语言重构经验
+ - 大型企业级服务系统复杂业务Go语言重构经验
  - 自研PHP协程RPC框架开发者
  - 团队资深新员工导师, 在岸离岸外包管理负责人
 
@@ -49,6 +56,40 @@
 ## 自主创业 (2013.7 ~ 2015.4)
 毕业后自主创业, 作为技术合伙人和主程序(web方向), 协调项目开发和需求
 
+---
+
+# 技术栈
+
+## 后端开发
+ - Go（主力语言）
+ - PHP
+ - C/C++
+
+## 架构与技术
+ - 分布式系统架构
+ - 微服务架构
+ - 分布式工作流引擎
+ - 时序异常检测算法
+ - K8s云原生部署
+ - CI/CD DevOps
+
+## 监控与运维
+ - 全链路日志（ELK Stack）
+ - 指标监控（Prometheus, Grafana）
+ - 分布式追踪（Tracing）
+ - 压测与性能优化
+
+---
+
+# 教育背景
+
+ - 本科 / 江南大学 / 数字媒体技术
+
+---
+
+# 专利
+
+ - [一种流通商品的可变长效防伪标识方法及系统](https://www.google.com/patents/CN105321076A?cl=zh&dq=%E5%AD%99%E7%9B%9B%E5%8D%9A&hl=zh-CN&sa=X&ved=0ahUKEwj87tjx7_3SAhXmsVQKHU6zAysQ6AEIHDAA) 
 
 ---
 
@@ -58,5 +99,6 @@
  - go-micro
  - tars
  - swoole
+
 ## Github地址
-[http://github.com/bgcolors](http://github.com/bgcolors)
+[http://github.com/bgcolors ](http://github.com/bgcolors)
