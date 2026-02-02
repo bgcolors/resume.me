@@ -1,5 +1,5 @@
 # Sun Shengbo (Bowen)
-**Senior DevOps Architect & Backend Engineer**
+**Platform Engineering Architect & Application System Architect**
 
 Phone: +86 15261595935 | Email: 493046077@qq.com  
 GitHub: github.com/bgcolors | Location: Shanghai, China
@@ -7,30 +7,30 @@ GitHub: github.com/bgcolors | Location: Shanghai, China
 ---
 
 ## SUMMARY
-Senior DevOps Architect and Backend Engineer with 12+ years of experience in large-scale distributed systems and cloud-native architecture. Proven expertise in building enterprise-level release platforms, optimizing high-concurrency systems, and leading technical teams at top Chinese internet companies (Meituan, Tencent). Strong problem-solving skills with a track record of delivering scalable, production-ready solutions.
+Platform Engineering Architect and Application System Architect with 12+ years of experience in large-scale distributed systems and cloud-native architecture. Specialized in designing and building enterprise-level development platforms, optimizing system architecture, and leading technical transformation at top Chinese internet companies (Meituan, Tencent). Proven expertise in platform engineering, system architecture design, and delivering scalable, production-ready solutions.
 
 ---
 
 ## WORK EXPERIENCE
 
-### **Meituan** | Release System Architect | Shanghai | Oct 2021 - Present
-*Company-wide Release and Change Management Platform*
+### **Meituan** | Platform Engineering Architect | Shanghai | Oct 2021 - Present
+*Company-wide Development Platform and System Architecture*
 
-• Architected and developed Meituan's enterprise release platform, supporting **50,000+ service deployments** across all core business units (food delivery, in-store, community group buying)
-• Designed and implemented a distributed workflow engine that orchestrates complex release pipelines, reducing manual intervention by 80% and improving release success rate
-• Led the development of automated deployment, canary release, and real-time anomaly detection systems, decreasing production incidents by 60%
-• Built DevOps toolchain integrating Kubernetes, CI/CD pipelines, and monitoring systems, achieving 99.9% platform availability
-• Established release governance standards and best practices adopted by 1,000+ engineering teams
+• Architected and led the development of Meituan's enterprise development platform, supporting **50,000+ service deployments** across all core business units (food delivery, in-store, community group buying)
+• Designed and implemented platform engineering solutions including distributed workflow engine, automated deployment systems, and real-time monitoring, reducing manual intervention by 80%
+• Led platform architecture design, focusing on developer experience, standardization, and best practices adoption by 1,000+ engineering teams
+• Established platform engineering standards and governance model, improving release success rate and decreasing production incidents by 60%
+• Designed application system architecture patterns and reference implementations for complex business scenarios
 
-### **Tencent** | Senior Backend Engineer | Shanghai | Apr 2018 - Dec 2021
+### **Tencent** | Senior Backend Engineer & Platform Specialist | Shanghai | Apr 2018 - Dec 2021
 *Tencent Qidian - Enterprise Instant Messaging Platform*
 
-• Developed and optimized high-concurrency enterprise IM backend systems serving millions of enterprise users with 99.99% availability
-• Led containerization initiative, migrating 200+ microservices to Kubernetes and reducing infrastructure costs by 30%
-• Implemented full-stack observability using ELK Stack, Prometheus, and Grafana, decreasing MTTR (Mean Time to Repair) by 40%
-• Refactored legacy monolithic systems to Go-based microservices architecture, improving system throughput by 50%
-• Developed in-house PHP coroutine RPC framework that increased RPC efficiency by 35%
-• Mentored 5+ junior engineers and managed offshore development teams
+• Designed and optimized high-concurrency enterprise IM platform architecture serving millions of enterprise users with 99.99% availability
+• Led platform modernization initiative, migrating 200+ microservices to Kubernetes and establishing platform engineering foundations
+• Implemented platform-level observability and monitoring systems using ELK Stack, Prometheus, and Grafana, decreasing MTTR by 40%
+• Architected and led the refactoring of legacy monolithic systems to Go-based microservices architecture, improving system throughput by 50%
+• Developed platform-level RPC framework and infrastructure components, increasing RPC efficiency by 35%
+• Established platform development standards and mentored engineering teams on system architecture best practices
 
 ### **Yuewen Group** | Backend Engineer | Shanghai | Jun 2017 - Apr 2018
 *Game Center Platform (QQ Reading, Qidian Reading)*
@@ -58,18 +58,20 @@ Senior DevOps Architect and Backend Engineer with 12+ years of experience in lar
 
 ## TECHNICAL SKILLS
 
+**Platform Engineering:** Development Platform Design, Internal Developer Platform (IDP), Platform as a Product, Developer Experience  
+**System Architecture:** Application Architecture Design, Distributed Systems, Microservices, Scalability Patterns, High Availability  
 **Programming Languages:** Go (Expert), PHP (Expert), C/C++ (Proficient), Python (Familiar)  
-**Cloud & DevOps:** Kubernetes, Docker, CI/CD, AWS, Prometheus, Grafana, ELK Stack, Ansible  
-**Distributed Systems:** Microservices, Service Mesh, Distributed Workflow, Message Queues  
-**Databases:** MySQL, PostgreSQL, Redis, MongoDB, Elasticsearch  
-**Monitoring & Observability:** Distributed Tracing, Log Aggregation, Performance Testing  
-**Architecture:** System Design, Scalability, High Availability, Disaster Recovery
+**Cloud & Infrastructure:** Kubernetes, Docker, CI/CD Platforms, Cloud Native Technologies  
+**Observability & Monitoring:** Distributed Tracing, Performance Monitoring, Log Management, Alerting Systems  
+**Databases & Storage:** MySQL, PostgreSQL, Redis, MongoDB, Elasticsearch  
+**Architecture Methodologies:** Domain-Driven Design, Event-Driven Architecture, API Design, System Integration
 
 ---
 
 ## ACHIEVEMENTS
 
-• **Technical Evangelist**: Regular internal speaker on DevOps practices and system architecture at Meituan
+• **Platform Engineering Evangelist**: Regular internal speaker on platform engineering, system architecture, and developer experience at Meituan
+• **Architecture Standards**: Established platform engineering and application architecture standards adopted by 1,000+ engineering teams
 
 ---
 
@@ -81,7 +83,8 @@ Senior DevOps Architect and Backend Engineer with 12+ years of experience in lar
 
 ## PROFESSIONAL INTERESTS
 
-• Cloud-native technologies and DevOps best practices  
-• Distributed systems and microservices architecture  
-• Performance optimization and scalability challenges  
-• Team leadership and technical mentorship
+• Platform Engineering and Internal Developer Platforms  
+• Application System Architecture and Design Patterns  
+• Developer Experience and Productivity Engineering  
+• Distributed Systems and Scalability Challenges  
+• Technical Leadership and Architecture Governance
