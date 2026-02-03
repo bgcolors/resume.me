@@ -65,8 +65,11 @@ Platform Engineering Architect and Application System Architect with 12+ years o
 **Observability & Monitoring:** Distributed Tracing, Performance Monitoring, Log Management, Alerting Systems  
 **Databases & Storage:** MySQL, PostgreSQL, Redis, MongoDB, Elasticsearch  
 **Architecture Methodologies:** Domain-Driven Design, Event-Driven Architecture, API Design, System Integration  
-**AI-Assisted Development:** Spec Coding, AI Pair Programming, Prompt Engineering, AI Agent Architecture  
-**AI Development Tools:** OpenClaw, Cursor, GitHub Copilot, Claude Code, Intelligent Code Generation
+**AI Coding & Engineering:**
+- AI Development Tools: Cursor, Claude Code, Trae, Catpaw (Meituan Internal)
+- AI-Assisted Programming Practices: Vibe Coding, Spec Coding
+- AI Knowledge: Prompt Engineering, AI Agent, MCP, Skill
+- AI Open Source: ClawdBot / OpenClaw
 
 ---
 

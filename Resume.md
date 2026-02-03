@@ -83,10 +83,11 @@
  - 分布式可观测（Opentelemetry）
  - 压测与性能优化
 
-## AI 编程与开发工具
+## AI Coding & Engineering
  - AI 开发工具：Cursor、Claude Code、Trae、Catpaw(美团自研)
  - AI 辅助编程实践：Vibe Coding、Spec Coding
- - AI 知识学习：Prompt Engineering、AI Agent、MCP、ClawdBot/OpenClaw
+ - AI 知识学习：Prompt Engineering、AI Agent、MCP、Skill
+ - AI 开源项目：ClawdBot / OpenClaw
 
 ---
 
