@@ -85,11 +85,10 @@
  - 压测与性能优化
 
 ## AI 编程与开发工具
- - AI 辅助编程实践：Spec Coding、AI Pair Programming
- - AI 开发工具：OpenClaw、Cursor、GitHub Copilot、Claude Code
- - 大模型应用开发：Prompt Engineering、AI Agent 架构设计
- - 智能代码生成与重构：基于 AI 的代码优化和自动化重构
-
+ - AI 开发工具：Cursor、Claude Code、Trae、Catpaw(美团自研)
+ - AI 辅助编程实践：Vibe Coding、Spec Coding
+ - AI 知识学习：Prompt Engineering、AI Agent、MCP、ClawdBot/OpenClaw
+ 
 ---
 
 
