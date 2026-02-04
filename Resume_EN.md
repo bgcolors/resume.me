@@ -1,95 +1,67 @@
 # Sun Shengbo (Bowen)
-**Platform Engineering Architect & Application System Architect**
+**Platform Engineering Architect**
 
-Phone: +86 15261595935 | Email: 493046077@qq.com  
-GitHub: github.com/bgcolors | Location: Shanghai, China
+Email: 493046077@qq.com | GitHub: github.com/bgcolors | Shanghai, China
 
 ---
 
 ## SUMMARY
-Platform Engineering Architect and Application System Architect with 12+ years of experience in large-scale distributed systems and cloud-native architecture. Specialized in designing and building enterprise-level development platforms, optimizing system architecture, and leading technical transformation at top Chinese internet companies (Meituan, Tencent). Proven expertise in platform engineering, system architecture design, and delivering scalable, production-ready solutions.
+12+ years of experience in distributed systems and cloud-native architecture. Expert in building enterprise development platforms and leading technical transformation at top tech companies (Meituan, Tencent).
 
 ---
 
 ## WORK EXPERIENCE
 
-### **Meituan** | Platform Engineering Architect | Shanghai | Oct 2021 - Present
-*Company-wide Development Platform and System Architecture*
+### Meituan | Platform Engineering Architect | Shanghai | Oct 2021 - Present
+- Architected enterprise development platform supporting **50,000+ service deployments**
+- Built distributed workflow engine, automated deployment, and real-time monitoring systems
+- Established platform engineering standards adopted by **1,000+ engineering teams**
+- Reduced manual intervention by **80%**, decreased production incidents by **60%**
 
-• Architected and led the development of Meituan's enterprise development platform, supporting **50,000+ service deployments** across all core business units (food delivery, in-store, community group buying)
-• Designed and implemented platform engineering solutions including distributed workflow engine, automated deployment systems, and real-time monitoring, reducing manual intervention by 80%
-• Led platform architecture design, focusing on developer experience, standardization, and best practices adoption by 1,000+ engineering teams
-• Established platform engineering standards and governance model, improving release success rate and decreasing production incidents by 60%
-• Designed application system architecture patterns and reference implementations for complex business scenarios
+### Tencent | Senior Backend Engineer | Shanghai | Apr 2018 - Dec 2021
+- Designed high-concurrency enterprise IM platform with **99.99% availability**
+- Led migration of **200+ microservices** to Kubernetes
+- Refactored monolithic systems to Go microservices, improving throughput by **50%**
+- Developed custom PHP coroutine RPC framework
 
-### **Tencent** | Senior Backend Engineer & Platform Specialist | Shanghai | Apr 2018 - Dec 2021
-*Tencent Qidian - Enterprise Instant Messaging Platform*
+### Yuewen Group | Backend Engineer | Shanghai | Jun 2017 - Apr 2018
+- Built game center platform serving **10M+ monthly active users**
+- Developed unified SDK integrating **20+ game channels**, reducing integration time from 2 weeks to 2 days
+- Optimized API performance: 200ms → 80ms
 
-• Designed and optimized high-concurrency enterprise IM platform architecture serving millions of enterprise users with 99.99% availability
-• Led platform modernization initiative, migrating 200+ microservices to Kubernetes and establishing platform engineering foundations
-• Implemented platform-level observability and monitoring systems using ELK Stack, Prometheus, and Grafana, decreasing MTTR by 40%
-• Architected and led the refactoring of legacy monolithic systems to Go-based microservices architecture, improving system throughput by 50%
-• Developed platform-level RPC framework and infrastructure components, increasing RPC efficiency by 35%
-• Established platform development standards and mentored engineering teams on system architecture best practices
+### Zhongtou Online | Full Stack Developer | Shanghai | Jun 2015 - Jun 2017
+- Optimized homepage performance, improving load time by **60%**
+- Built authentication system and API gateway
+- Implemented real-time chat and live streaming features
 
-### **Yuewen Group** | Backend Engineer | Shanghai | Jun 2017 - Apr 2018
-*Game Center Platform (QQ Reading, Qidian Reading)*
-
-• Built foundational architecture and libraries for game center platform serving 10M+ monthly active users
-• Developed unified SDK integrating 20+ third-party game channels, reducing integration time from 2 weeks to 2 days
-• Optimized API performance, reducing average response time from 200ms to 80ms
-• Implemented real-time monitoring and alerting systems for critical business metrics
-
-### **Zhongtou Online** | Full Stack Developer | Shanghai | Jun 2015 - Jun 2017
-*Financial Data and Information Website*
-
-• Optimized homepage performance through caching strategies, improving page load time by 60%
-• Developed authentication system and API gateway for mobile applications
-• Implemented real-time chat and user count features for live streaming rooms
-
-### **Startup** | Technical Co-founder & Lead Developer | Wuxi | Jul 2013 - Apr 2015
-*E-commerce Platform Startup*
-
-• Co-founded startup and led technical development as primary web developer
-• Built full-stack e-commerce platform from scratch using PHP and MySQL
-• Coordinated product development and managed client requirements
+### Startup | Technical Co-founder | Wuxi | Jul 2013 - Apr 2015
+- Built full-stack e-commerce platform using PHP and MySQL
 
 ---
 
 ## TECHNICAL SKILLS
 
-**Platform Engineering:** Development Platform Design, Internal Developer Platform (IDP), Platform as a Product, Developer Experience  
-**System Architecture:** Application Architecture Design, Distributed Systems, Microservices, Scalability Patterns, High Availability  
-**Programming Languages:** Go (Expert), PHP (Expert), C/C++ (Proficient), Python (Familiar)  
-**Cloud & Infrastructure:** Kubernetes, Docker, CI/CD Platforms, Cloud Native Technologies  
-**Observability & Monitoring:** Distributed Tracing, Performance Monitoring, Log Management, Alerting Systems  
-**Databases & Storage:** MySQL, PostgreSQL, Redis, MongoDB, Elasticsearch  
-**Architecture Methodologies:** Domain-Driven Design, Event-Driven Architecture, API Design, System Integration  
+**Languages:** Go (Expert), PHP (Expert), C/C++ (Proficient)
+
+**Platform & Architecture:** Distributed Systems, Microservices, Kubernetes, CI/CD, High Availability
+
 **AI Coding & Engineering:**
-- AI Development Tools: Cursor, Claude Code, Trae, Catpaw (Meituan Internal)
-- AI-Assisted Programming Practices: Vibe Coding, Spec Coding
-- AI Knowledge: Prompt Engineering, AI Agent, MCP, Skill
-- AI Open Source: ClawdBot / OpenClaw
+- Tools: Cursor, Claude Code, Trae, Catpaw
+- Practices: Vibe Coding, Spec Coding
+- Knowledge: Prompt Engineering, AI Agent, MCP
+- Open Source: ClawdBot / OpenClaw
 
----
-
-## ACHIEVEMENTS
-
-• **Platform Engineering Evangelist**: Regular internal speaker on platform engineering, system architecture, and developer experience at Meituan
-• **Architecture Standards**: Established platform engineering and application architecture standards adopted by 1,000+ engineering teams
+**Observability:** ELK Stack, Prometheus, Grafana, OpenTelemetry
 
 ---
 
 ## EDUCATION
 
-**Jiangnan University** | Bachelor of Engineering | Digital Media Technology | 2009 - 2013
+Jiangnan University | B.E. Digital Media Technology | 2009 - 2013
 
 ---
 
-## PROFESSIONAL INTERESTS
+## ACHIEVEMENTS
 
-• Platform Engineering and Internal Developer Platforms  
-• Application System Architecture and Design Patterns  
-• Developer Experience and Productivity Engineering  
-• Distributed Systems and Scalability Challenges  
-• Technical Leadership and Architecture Governance
+- Regular internal speaker on platform engineering at Meituan
+- Established platform engineering and architecture standards adopted by 1,000+ teams
