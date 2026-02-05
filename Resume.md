@@ -69,7 +69,13 @@
  - PHP
  - C/C++
 
-## 架构与技术
+## AI Coding & Engineering
+ - AI 开发工具：Cursor、Claude Code、Trae、Catpaw(美团自研)
+ - AI 辅助编程实践：Vibe Coding、Spec Coding
+ - AI 知识学习：Prompt Engineering、AI Agent、MCP、Skill
+ - AI 开源项目：ClawdBot / OpenClaw
+
+## 技术与架构
  - 分布式系统架构
  - 微服务架构
  - 分布式工作流引擎
@@ -82,12 +88,6 @@
  - 指标监控（Prometheus, Grafana）
  - 分布式可观测（Opentelemetry）
  - 压测与性能优化
-
-## AI Coding & Engineering
- - AI 开发工具：Cursor、Claude Code、Trae、Catpaw(美团自研)
- - AI 辅助编程实践：Vibe Coding、Spec Coding
- - AI 知识学习：Prompt Engineering、AI Agent、MCP、Skill
- - AI 开源项目：ClawdBot / OpenClaw
 
 ---
 
