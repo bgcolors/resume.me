@@ -15,7 +15,7 @@ Email: 493046077@qq.com | GitHub: github.com/bgcolors | Shanghai, China
 ### Meituan | Platform Engineering Architect | Shanghai | Oct 2021 - Present
 - Architected enterprise development platform supporting **50,000+ service deployments**
 - Built distributed workflow engine, automated deployment, and real-time monitoring systems
-- Established platform engineering standards adopted by **1,000+ engineering teams**
+- Established platform engineering standards adopted by **10,000+ engineers**
 - Reduced manual intervention by **80%**, decreased production incidents by **60%**
 
 ### Tencent | Senior Backend Engineer | Shanghai | Apr 2018 - Dec 2021
@@ -64,4 +64,4 @@ Jiangnan University | B.E. Digital Media Technology | 2009 - 2013
 ## ACHIEVEMENTS
 
 - Regular internal speaker on platform engineering at Meituan
-- Established platform engineering and architecture standards adopted by 1,000+ teams
+- Established platform engineering and architecture standards adopted by 10,000+ engineers
