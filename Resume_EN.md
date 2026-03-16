@@ -1,7 +1,7 @@
 # Sun Shengbo (Bowen)
 **Platform Engineering Architect**
 
-Email: 493046077@qq.com | GitHub: github.com/bgcolors | Shanghai, China
+Tel: 15261595935 | Email: 493046077@qq.com | GitHub: github.com/bgcolors | Shanghai, China
 
 ---
 
@@ -16,11 +16,11 @@ Email: 493046077@qq.com | GitHub: github.com/bgcolors | Shanghai, China
 - Architected enterprise development platform supporting **50,000+ service deployments**
 - Built distributed workflow engine, automated deployment, and real-time monitoring systems
 - Established platform engineering standards adopted by **10,000+ engineers**
-- Reduced manual intervention by **80%**, decreased production incidents by **60%**
+- Reduced manual intervention by **80%**, decreased production MTTR by **90%**
 
 ### Tencent | Senior Backend Engineer | Shanghai | Apr 2018 - Dec 2021
 - Designed high-concurrency enterprise IM platform with **99.99% availability**
-- Led migration of **200+ microservices** to Kubernetes
+- Led migration of **200+ microservices** to Kubernetes, built CI/CD pipelines, and drove comprehensive DevOps transformation
 - Refactored monolithic systems to Go microservices, improving throughput by **50%**
 - Developed custom PHP coroutine RPC framework
 
